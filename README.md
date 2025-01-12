@@ -190,22 +190,3 @@ You can preview the Confetti platform at [https://confetti-five.vercel.app/](htt
 [![User Card](https://i.ibb.co/HGpqtXT/userCard.png)](https://confetti-five.vercel.app/)
 [![Notifications](https://i.ibb.co/kKLKGwf/notif.png)](https://confetti-five.vercel.app/)
 
-
-
-## Contributors
-### [Ashutosh Kumar](https://github.com/ash956901)
-Email: ak959601@gmail.com
-### [Sanchit Vijay](https://github.com/sanchiitvijay)
-Email: sanchiitvijay@gmail.com
-
-
-## Contributing
-
-Contributions are welcome If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Support
-
-For support, email [confetti.site.01@gmail.com](mailto:confetti.site.01@gmail.com) or write the feedback in the website [Confetti](https://confetti-five.vercel.app/).
